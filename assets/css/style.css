@@ -2186,7 +2186,9 @@ ul.row-sm {
   overflow: hidden;
   position: relative;
   height: 220px;
-  text-align: center; }
+  text-align: center;
+  padding: 10px;
+  background-color: #e1e1e17a; }
 
 .card-product .img-wrap img {
   max-height: 100%;
